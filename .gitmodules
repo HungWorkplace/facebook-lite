@@ -1,0 +1,6 @@
+[submodule "Front"]
+	path = Front
+	url = https://github.com/HungWorkplace/facebook-front.git
+[submodule "Back"]
+	path = Back
+	url = https://github.com/HungWorkplace/facebook-back.git
